@@ -5,10 +5,10 @@ opencv-python-headless
 requests
 motor
 pytz
-flask
+Flask==1.1.2
 telethon
 aiojobs
-werkzeug==2.2.2
+werkzeug==2.0.2
 PyPDF2
 reportlab
 PyMuPDF
